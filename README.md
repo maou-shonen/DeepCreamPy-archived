@@ -1,3 +1,12 @@
+# DeepCreamPy archive
+The original author, deeppomf, is no longer available,  
+This is an archive of repository deeppomf/DeepCreamPy
+
+原作者 deeppomf 不見了  
+這是 deeppomf/DeepCreamPy 的存檔
+
+---
+
 # DeepCreamPy
 *Decensoring Hentai with Deep Neural Networks.*
 
