@@ -2,8 +2,15 @@
 The original author, deeppomf, is no longer available,  
 This is an archive of repository deeppomf/DeepCreamPy
 
-原作者 deeppomf 不見了  
+Also, this is a backup of Windows-64bit binary file  
+https://github.com/mao-shonen/DeepCreamPy-archived/releases/tag/2.2.0-beta
+
+
+原作者 deeppomf 不見了,  
 這是 deeppomf/DeepCreamPy 的存檔
+
+另外, 這是windows二進制檔的備份  
+https://github.com/mao-shonen/DeepCreamPy-archived/releases/tag/2.2.0-beta
 
 ---
 
